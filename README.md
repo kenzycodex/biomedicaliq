@@ -45,11 +45,19 @@ Below are some key sections of the landing page:
   
   ![Core Services](assets/images/sections/services.png)
   
-- **Why Choose BioMedical IQ?**
+- **About Us Section**
   
-  ![Why Choose BioMedical IQ](assets/images/sections/why-choose.png)
+  ![Why Choose BioMedical IQ](assets/images/sections/about.png)
 
-You can find all screenshots in the repository under the `assets/images/sections/` directory or [Google Drive link here](https://drive.google.com/).
+- **Testimonial Section**
+  
+  ![Why Choose BioMedical IQ](assets/images/sections/testimonial.png)
+
+- **Conatct Us Section**
+  
+  ![Why Choose BioMedical IQ](assets/images/sections/contact.png)
+
+You can find all screenshots in the repository under the `assets/images/sections/` directory or [Google Drive link here](https://drive.google.com/drive/folders/1n5U_Ocx4Sbl9UmrnMl4G8Tujoc-RSDCD?usp=drive_link).
 
 ---
 
@@ -74,7 +82,7 @@ We need additional pages: **About Us**, **Contact Us**, and **Services**. To cre
 
 1. **Create a new branch** to work on the new pages:
     ```bash
-    git checkout -b feature/about-contact-services-pages
+    git checkout -b my-contribution
     ```
 
 2. **Create the HTML files**:
@@ -103,7 +111,7 @@ We need additional pages: **About Us**, **Contact Us**, and **Services**. To cre
 
 5. **Push your branch** to your forked repository:
     ```bash
-    git push origin feature/about-contact-services-pages
+    git push origin my-contribution
     ```
 
 ### Contribution Process
@@ -132,7 +140,7 @@ Designers will contribute by creating the designs for **About Us**, **Contact Us
 - **Adobe XD**  
 - **Canva**  
 
-If you don’t have access to some assets like images, you can download them from [Google Drive link here](https://drive.google.com/).
+If you don’t have access to some assets like images, you can download them from [Google Drive link here](https://drive.google.com/drive/folders/1n5U_Ocx4Sbl9UmrnMl4G8Tujoc-RSDCD?usp=drive_link).
 
 ### Designing New Pages
 
@@ -157,7 +165,7 @@ The design for the **About Us**, **Contact Us**, and **Services** pages should f
     git push origin feature/designs-contact-services-about
     ```
 
-5. Reviewers will provide feedback, and you can make adjustments accordingly.
+5. Biomedical IQ reviewers will provide feedback, and you can make adjustments accordingly.
 
 ---
 
@@ -170,8 +178,7 @@ We welcome contributions from both developers and designers. Here's how you can 
 3. Push to the branch: `git push origin feature/YourFeature`.
 4. Open a pull request.
 
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md).
+Please follow our [Code of Conduct](./CODE-OF-CONDUCT.md).
 
 ---
 
-This README file now provides more detailed steps for both developers and designers, focusing on the use of HTML/CSS and creating new pages with small, manageable commits and contributions.
