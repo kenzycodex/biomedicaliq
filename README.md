@@ -173,9 +173,9 @@ The design for the **About Us**, **Contact Us**, and **Services** pages should f
 
 We welcome contributions from both developers and designers. Here's how you can get involved:
 
-1. Fork the repo and create your branch: `git checkout -b feature/YourFeature`.
+1. Fork the repo and create your branch: `git checkout -b YourFeature`.
 2. Commit your changes: `git commit -m 'Add some feature'`.
-3. Push to the branch: `git push origin feature/YourFeature`.
+3. Push to the branch: `git push origin YourFeature`.
 4. Open a pull request.
 
 Please follow our [Code of Conduct](./CODE-OF-CONDUCT.md).
